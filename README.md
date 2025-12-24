@@ -1,2 +1,2 @@
 # Attendance-calculator
-i have created a simple attendance management system to calculate the numuber of present and absent
+i have created a simple attendance management system to calculate the number of present and absent
